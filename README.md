@@ -1,2 +1,2 @@
 # snagger
-This is a collection of various CNN's.
+Snag your own parking spot.
