@@ -32,6 +32,7 @@ y_pred = predict(classifier, newdata = test_set[-3])
 
 # Making the Confusion Matrix
 cm = table(test_set[, 3], y_pred)
+print(cm)
 
 # Visualising the Training set results
 library(ElemStatLearn)

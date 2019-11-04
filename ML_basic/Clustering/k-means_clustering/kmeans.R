@@ -29,7 +29,7 @@ plot(1:10,
 
 # Fitting K-Means to the dataset
 set.seed(29)
-kmeans = kmeans(x = dataset, centers = 5)
+kmeans = kmeans(x = dataset, centers = 6)
 y_kmeans = kmeans$cluster
 
 # Visualising the clusters
