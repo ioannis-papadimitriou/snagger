@@ -1,0 +1,6 @@
+RandomForestClassifier :  0.3987
+RandomForestClassifier (reduced dataset) :  0.351
+SGD tClassifier :  0.209
+K Nearest Neighbors :  0.335
+Logistic Regression :  0.378
+Support Vector Classifier :  0.2
