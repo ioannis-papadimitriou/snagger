@@ -25,7 +25,7 @@ The best average performance was achieved by CNN (2D) (73 %, stdev:0.03).
 
 Note: If you are working on this bear in mind that data leakage is guarranteed if you reshuffle and/or merge the data. 
 I have seen a lot of ridiculously high accuracies when all the data are used together and split randomly. One can 
-reach accuracies higher than 95 %, quickly and easily, with a simle random forest in that case, no deep learning needed.
+reach accuracies higher than 95 %, quickly and easily, with a simple random forest in that case, no deep learning needed.
 
 TODO: Write a small report on this (and maybe try a deep CNN (2D)).
 
