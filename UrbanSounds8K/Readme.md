@@ -20,6 +20,7 @@ Using the predefined folds, a variety of different algorithms were used for clas
 - CNN (1D)
 - CRNN (Convolutional + Recurrent)
 - CNN (2D)
+- Autoencoders
 
 The best average performance was achieved by CNN (2D) (73 %, stdev:0.03).
 
