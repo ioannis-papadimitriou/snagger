@@ -1,2 +1,2 @@
 # snagger
-My ML collection. Ranging from basic ML scripts, to deep learning models.
+My AI collection. Ranging from basic ML scripts, to deep learning models and beyond.
